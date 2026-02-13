@@ -1,4 +1,4 @@
-##👋 Hi, I'm Rao Durair
+👋 Hi, I'm Rao Durair
 
 🎓 BS Artificial Intelligence Student  
 🤖 Aspiring AI Engineer | Future Tech Entrepreneur  
@@ -7,11 +7,11 @@
 I am passionate about Machine Learning, Data Science, and building practical AI solutions.  
 I enjoy working on real-world problems and turning ideas into intelligent systems.
 
-##🔥 I'm Currently Working On
+🔥 I'm Currently Working On
 - 🤖 Machine Learning & AI Projects
 - 🧠 Data Science & Data Analysis
 
-##🛠️ Tools & Technologies I Use
+🛠️ Tools & Technologies I Use
 - Python
 - NumPy, Pandas, Matplotlib
 - Scikit-learn
@@ -20,7 +20,7 @@ I enjoy working on real-world problems and turning ideas into intelligent system
 - Basic Web Development
 - Machine Learning Algorithms (KNN, Linear Regression)
 
-## 📫 How to Reach Me
+ 📫 How to Reach Me
 
 - GitHub: https://github.com/Rao2001
 
@@ -28,5 +28,5 @@ I enjoy working on real-world problems and turning ideas into intelligent system
 
 - Email: m.durairbahadur@gmail.com
 
-## ⚡ Fun Fact
+⚡ Fun Fact
 I believe the best way to learn AI is by building real projects, solving real problems, and constantly improving every day.
